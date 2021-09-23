@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mayank Bhugra</h1>
-<h3 align="center">A Data science And Fullstack ethusiast from India</h3>
+<h3 align="center">A Fullstack learner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank190821&label=Profile%20views&color=0e75b6&style=flat" alt="mayank190821" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayank190821" alt="mayank190821" /></a> </p>
 
-- 🔭 I’m currently working on **Face Mask detection using python**
+- 🔭 I’m currently learning on **REACT**
 
-- 🌱 I’m currently learning **AIML And MERN Stack**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [mayank190821](mayank190821)
 
