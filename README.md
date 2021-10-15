@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [mayank190821](mayank190821)
 
-- 💬 Ask me about **python, java, cpp, IOT, Raspberry pi, Linux, Mysql, ESP8266 ,Arduino IDE**
+- 💬 Ask me about **python, java, cpp, IOT, Raspberry pi, Linux, Mysql, ESP8266 ,Arduino IDE,HTML,CSS, javascript**
 
 - 📫 How to reach me **mayank.123.2000@gmail.com**
 
