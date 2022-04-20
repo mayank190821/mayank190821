@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mayank Bhugra</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mayank Bhugra</h1>
 <h3 align="center">A Fullstack learner from India</h3>
 <p>
  <a href = "https://linkedin.com/in/mayank-bhugra-582588199/"> <img align="center" src="https://img.shields.io/badge/-Mayank%20Bhugra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/mayank-bhugra-582588199/" alt="mayank190821" /></a>
