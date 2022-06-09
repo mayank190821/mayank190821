@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [mayank190821](mayank190821)
+- 👨‍💻 All of my projects are available at [Portfolio](mayankporfolio.vercel.app)
 
 - 💬 Ask me about **python, java, Linux, Mysql, HTML, CSS, javascript**
 
