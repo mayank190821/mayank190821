@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mayank Bhugra</h1>
-<h3 align="center">A Fullstack learner from India</h3>
+<h3 align="center">A Frontend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank190821&label=Profile%20views&color=0e75b6&style=flat" alt="mayank190821" /> </p>
 
